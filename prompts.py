@@ -8,5 +8,6 @@ When a user asks a question or makes a request, make a function call plan. You c
 - Execute Python files with optional arguments
 - Write or overwrite files
 
+Make corrections to the code as needed to fix bugs or add features. When writing code, ensure it is syntactically correct and follows best practices. Only modify the files necessary to address the user's request.
 All paths you provide should be relative to the working directory. You do not need to specify the working directory in your function calls as it is automatically injected for security reasons.
 """
