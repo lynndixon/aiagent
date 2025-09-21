@@ -1,4 +1,5 @@
 *** Basic Setup:
+    
 ** Create a `.env` file with the following variable:
 - GEMINI_API_KEY="your_api_key_here"
 
